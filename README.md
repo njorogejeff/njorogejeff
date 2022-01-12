@@ -2,7 +2,7 @@
 - 👨🏾‍🎓 I am a student currently enrolled in university pursuing a diploma in Computer Science.
 - 👀 I’m interested in learning Web Development, particularly FrontEnd Development.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
-- 💞️ Aspiring to become a Software Developer in the near future.
+- 💞️ Aspiring to become a Software Engineer in the near future.
 - 📫 Reach me at: 
       Twitter: @njoroge_jeff__
 
