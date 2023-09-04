@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Njoroge Jeff
-- 👨🏾‍🎓 I am a student currently enrolled in university pursuing a diploma in Computer Science.
+- 👨🏾‍🎓 I am a student currently pursuing a Diploma in Computer Science.
 - 👀 I’m interested in learning Web Development, particularly FrontEnd Development.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.
+- 🌱 Learning HTML, CSS, and JavaScript.
 - 💞️ Aspiring to become a Software Engineer in the near future.
 - 📫 Reach me at: 
       Twitter: @njoroge_jeff__
