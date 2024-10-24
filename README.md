@@ -38,9 +38,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=njorogejeff&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
- **<h3 align="left">Support Me</h3>**
 
-<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
 
 <a href="https://app.daily.dev/njoroge_jeff__"><img src="https://api.daily.dev/devcards/c7c7f9ddc5984eac9b98d16076dc7766.png?r=x91" width="400" alt="Jeff's Dev Card"/></a>
 <!---
